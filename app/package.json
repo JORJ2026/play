@@ -1,7 +1,7 @@
 {
   "name": "games-hub",
   "productName": "Games Hub",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "260+ free card, casino, puzzle and arcade games. Works offline.",
   "author": "Games Hub",
   "main": "main.js",
